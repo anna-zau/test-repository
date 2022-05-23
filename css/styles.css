@@ -1,0 +1,40 @@
+/* H1 - H2 color = #000000 */
+/* H3 color = #263238 */
+/* p colour #8F95A5 */
+/* background button: #263238; */
+/* text button - #FFFFFF */
+/* nav text #263238 */
+/* about us numbers  #2A3246 */
+
+body {
+  color: #8f95a5;
+}
+
+.section {
+  color: #8f95a5;
+}
+
+.title {
+  color: #000000;
+}
+
+.small-title {
+  color: #263238;
+}
+
+.nav-item .link {
+  color: #263238;
+}
+
+.info-number {
+  color: #2a3246;
+}
+
+.button-header {
+  color: #000000;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #263238;
+}
